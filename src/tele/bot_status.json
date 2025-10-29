@@ -1,0 +1,25 @@
+{
+  "startTime": "2025-10-28T20:47:31.578Z",
+  "endTime": "2025-10-28T20:53:47.160Z",
+  "startBalance": {
+    "aster": 0.39206787,
+    "hyperliquid": 18.48073,
+    "total": 18.87279787
+  },
+  "endBalance": {
+    "aster": 0.38744487,
+    "hyperliquid": 6.94073,
+    "total": 7.328174870000001
+  },
+  "trades": {
+    "opened": 2,
+    "closed": 0,
+    "total": 2
+  },
+  "pnl": {
+    "absolute": -11.544622999999998,
+    "percentage": -61.17070229608726
+  },
+  "status": "stopped",
+  "lastUpdate": "2025-10-28T20:53:48.229Z"
+}
